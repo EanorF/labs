@@ -1,5 +1,0 @@
-/*
-git add . | (добавили все файлы в дериктории)
-git commit -m "comment" | (прокомментировали коммит)
-git push origin main 
-*/
